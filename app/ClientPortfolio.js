@@ -74,8 +74,8 @@ export default function ClientPortfolio() {
         <div className="hero-content fade-in">
           <h1>Miguel Kesego <span>Keitseng</span></h1>
           <h2>
-            Aspiring Network Engineer and Web Developer.<br />
-            Main focus is on network engineering...
+            Aspiring Data analyst and Web Developer.<br />
+            Main focus is on Data Analysis...
           </h2>
           <p>
             Building reliable infrastructure and elegant digital experiences from Botswana.
@@ -101,7 +101,7 @@ export default function ClientPortfolio() {
           <div className="about-text fade-in">
             <h3>Curious by nature. Engineer by craft.</h3>
             <p>
-              I&apos;m a passionate aspiring network engineer with a strong interest in designing, building, and maintaining the physical and virtual infrastructure that keeps modern systems running.
+              I&apos;m a passionate aspiring daataa analyst with a strong interest in designing, building, and maintaining the physical and virtual infrastructure that keeps modern systems running.
             </p>
             <p>
               I&apos;m currently a student who has goals of monitoring network performance, building modern digital solutions, and continuously learning new technologies to create impactful user experiences.

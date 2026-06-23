@@ -8,7 +8,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta charSet="UTF-8" />
-        {/* Link to your global CSS stylesheet */}
+        {/* Link to global CSS stylesheet */}
         <link rel="stylesheet" href="/style.css" />
       </head>
       <body>
