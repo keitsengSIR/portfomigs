@@ -74,8 +74,8 @@ export default function ClientPortfolio() {
         <div className="hero-content fade-in">
           <h1>Miguel Kesego <span>Keitseng</span></h1>
           <h2>
-            Aspiring Data analyst and Web Developer.<br />
-            Main focus is on Data Analysis...
+            Aspiring Data analyst and Network Engineer.<br />
+            
           </h2>
           <p>
             Building reliable infrastructure and elegant digital experiences from Botswana.
